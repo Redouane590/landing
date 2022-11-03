@@ -1,0 +1,22 @@
+.banner {
+  /* background-image: url('../../images/background.png'); */
+  color: white;
+  font-size: 50px;
+
+  /* height: 700px; */
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center; */
+  padding: 200px;
+}
+
+
+.banner h1 {
+  font-size: 48px;
+}
+.banner p {
+  font-size: 28px;
+  color: #ffffff94;
+}
